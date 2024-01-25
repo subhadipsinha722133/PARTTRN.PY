@@ -1,1 +1,0 @@
-# PARTTRN.PY
